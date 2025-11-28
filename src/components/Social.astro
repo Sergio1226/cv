@@ -1,0 +1,21 @@
+---
+const { social } = Astro.props
+import { Icon } from 'astro-icon/components'
+---
+
+<style>
+    .mono {
+        font-family: "JetBrains Mono", monospace;
+      }
+</style>
+
+<a
+  href={`https://${social.url}`}
+  target="_blank"
+  class={`mono  text-white px-6 py-3 rounded-lg font-semibold transition transform hover:scale-105 shadow-lg border flex items-center gap-2 ${social.class}`}
+>
+  <span class="leading-none text-center align-middle h-fit">
+    &gt; {social.name}</span
+  >
+  <Icon name={social.icon} size={30} style="stroke-width: 4;" />
+</a>

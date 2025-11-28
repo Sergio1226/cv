@@ -1,0 +1,16 @@
+ [
+  {
+    "position": "Desarrollador Frontend",
+    "company": "Empresa XYZ",
+    "period": "2023 - Presente",
+    "description":
+      "Desarrollo de interfaces de usuario con React y TypeScript. Implementación de diseños responsivos y optimización de rendimiento."
+  },
+  {
+    "position": "Desarrollador Junior",
+    "company": "Startup ABC",
+    "period": "2021 - 2023",
+    "description":
+      "Colaboración en proyectos web utilizando Vue.js y Node.js. Participación en el diseño de APIs REST."
+  }
+]

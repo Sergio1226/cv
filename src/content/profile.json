@@ -1,0 +1,28 @@
+{
+    "name": "Sergio Calderon",
+    "title": "Desarrollador Full Stack",
+    "email": "sergio.calderon1226@gmail.com",
+    "location": "Tunja, Colombia",
+    "website": "sergio.calderon.com",
+    "social": [
+        {
+            "name": "Github",
+            "url": "github.com/Sergio1226",
+            "icon": "mdi:github",
+            "class": "bg-gradient-to-r from-purple-600 to-purple-700 hover:from-purple-500 hover:to-purple-600  shadow-purple-500/50 border border-purple-400"
+        },
+        {
+            "name": "Linkedin",
+            "url": "www.linkedin.com/in/sergio-andres-calderon-jaimes-2815512ba/",
+            "icon": "mdi:linkedin",
+            "class": "bg-gradient-to-r from-cyan-600 to-cyan-700 hover:from-cyan-500 hover:to-cyan-600    shadow-cyan-500/50  border-cyan-400"
+        },
+        {
+            "name": "LeetCode",
+            "url": "leetcode.com/u/Sergio1226/",
+            "icon": "leetcode",
+            "class": "bg-gradient-to-r from-amber-600 to-amber-700 hover:from-orange-500 hover:to-orange-600    shadow-orange-500/50  border-orange-400"
+        }
+    ],
+    "about": "Desarrollador Full Stack apasionado por crear soluciones web y moviles tanto modernas como eficientes. Especializado en tecnologías JavaScript , frameworks modernos y bases de datos."
+}

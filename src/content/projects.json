@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Reser-Web",
+    "description": "Plataforma web para reservas de un hospedaje, con manejo de rol cliente y administrador",
+    "tech": [
+      { "name": "React", "icon": "devicon:react" },
+      { "name": "Node.js", "icon": "devicon:nodejs" },
+      { "name": "PostgreSQL", "icon": "devicon:postgresql" },
+      { "name": "Vercel", "icon": "devicon:vercel" },
+      { "name": "Tailwind CSS", "icon": "devicon:tailwindcss" }
+    ],
+    "code": "https://github.com/Sergio1226/reser_web",
+    "production": "https://reser-web.vercel.app/"
+  },
+  {
+    "name": "Arti-app",
+    "description": "Aplicacion de escritorio sobre almacenamiento para farmacia",
+    "tech": [
+      { "name": "React", "icon": "devicon:react" },
+      { "name": "TypeScript", "icon": "devicon:typescript" },
+      { "name": "Tailwind CSS", "icon": "devicon:tailwindcss" },
+      { "name": "Rust", "icon": "devicon:rust" },
+      { "name": "Tauri", "icon": "devicon:tauri" }
+    ],
+    "code": "https://github.com/Sergio1226/samtro-app",
+    "production": ""
+  },
+  {
+    "name": "Mind-up",
+    "description": "Blog online relacionado con la psicologia y salud mental",
+    "tech": [
+      { "name": "Astro", "icon": "devicon:astro" },
+      { "name": "Tailwind CSS", "icon": "devicon:tailwindcss" },
+      { "name": "CSS3", "icon": "devicon:css3" },
+      { "name": "Render" }
+    ],
+    "code": "https://github.com/Sergio1226/mind-up",
+    "production": "https://mind-up.onrender.com/"
+  },
+  {
+    "name": "DayLeet",
+    "description": "Extension de navegador para consultar el problema diario de leetcode",
+    "tech": [
+      { "name": "JavaScript", "icon": "devicon:javascript" },
+      { "name": "HTML5", "icon": "devicon:html5" },
+      { "name": "CSS3", "icon": "devicon:css3" },
+      { "name": "Express", "icon": "devicon:express" }
+    ],
+    "code": "https://github.com/Sergio1226/day_leet",
+    "production": ""
+  }
+]

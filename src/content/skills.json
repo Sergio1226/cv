@@ -1,0 +1,82 @@
+[
+    {
+        "name": "HTML5",
+        "icon": "devicon:html5",
+        "url": "developer.mozilla.org/en-US/docs/Web/HTML"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "devicon:javascript",
+        "url": "developer.mozilla.org/en-US/docs/Web/JavaScript"
+    },
+    {
+        "name": "TypeScript",
+        "icon": "devicon:typescript",
+        "url": "www.typescriptlang.org"
+    },
+    {
+        "name": "React",
+        "icon": "devicon:react",
+        "url": "react.dev"
+    },
+    {
+        "name": "Astro",
+        "icon": "devicon:astro",
+        "url": "astro.build"
+    },
+    {
+        "name": "Node.js",
+        "icon": "devicon:nodejs",
+        "url": "nodejs.org"
+    },
+    {
+        "name": "Express",
+        "icon": "devicon:express",
+        "url": "expressjs.com"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "devicon:postgresql",
+        "url": "www.postgresql.org"
+    },
+    {
+        "name": "HTML5",
+        "icon": "devicon:html5",
+        "url": "developer.mozilla.org/en-US/docs/Web/HTML"
+    },
+    {
+        "name": "CSS3",
+        "icon": "devicon:css3",
+        "url": "developer.mozilla.org/en-US/docs/Web/CSS"
+    },
+    {
+        "name": "Tailwind CSS",
+        "icon": "devicon:tailwindcss",
+        "url": "tailwindcss.com"
+    },
+    {
+        "name": "Git",
+        "icon": "devicon:git",
+        "url": "git-scm.com"
+    },
+    {
+        "name": "React Native",
+        "icon": "devicon:reactnative-wordmark",
+        "url": "reactnative.dev"
+    },
+    {
+        "name": "Next.js",
+        "icon": "devicon:nextjs",
+        "url": "nextjs.org"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "devicon:mongodb",
+        "url": "www.mongodb.com"
+    },
+    {
+        "name": "Vercel",
+        "icon": "devicon:vercel",
+        "url": "vercel.com"
+    }
+]

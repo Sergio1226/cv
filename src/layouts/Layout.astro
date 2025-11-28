@@ -1,0 +1,22 @@
+---
+---
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Curriculum Vitae</title>
+    <link rel="icon" type="image/png" href="icon.png">
+    <script src="https://cdn.tailwindcss.com"></script>
+
+  </head>
+  <body class="animated-bg text-white relative overflow-x-hidden">
+    <div class="grid-pattern fixed inset-0 pointer-events-none"></div>
+    <div class="scanline fixed inset-0 pointer-events-none opacity-30"></div>
+
+    <div class="max-w-6xl mx-auto px-6 py-16 md:px-12 md:py-20 relative z-10">
+      <slot />
+    </div>
+  
+  </body>
+</html>

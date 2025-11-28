@@ -1,0 +1,33 @@
+---
+const { skill } = Astro.props;
+import { Icon } from "astro-icon/components";
+---
+
+<style>
+  .pill {
+    transition: rotate 0.3s ease-in-out;
+    cursor: pointer;
+  }
+
+  .shake {
+    rotate: 5deg;
+  }
+</style>
+<a
+  href={"https://" + skill.url}
+  target="_blank"
+  class="pill tech-tag mono bg-slate-900/70 text-purple-300 px-4 py-3 rounded-lg text-sm font-medium border border-purple-500/30 hover:text-cyan-300 cursor-default"
+  title={skill.name}
+>
+  <Icon name={skill.icon} size={30} />
+</a>
+<script>
+  document.querySelectorAll(".pill").forEach((e) => {
+    e.addEventListener("mouseover", () => {
+      e.classList.add("shake");
+    });
+    e.addEventListener("mouseout", () => {
+      e.classList.remove("shake");
+    });
+  });
+</script>
